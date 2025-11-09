@@ -90,9 +90,9 @@
 <h3 align="left">🐍 Watch My Contributions Snake:</h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnujAga2005/AnujAga2005/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnujAga2005/AnujAga2005/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AnujAga2005/AnujAga2005/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyasai2004/divyasai2004/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyasai2004/divyasai2004/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/divyasai2004/divyasai2004/output/github-snake.svg" />
 </picture>
 
 ---
