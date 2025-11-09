@@ -24,7 +24,7 @@
 
 <h3 align="left">🧩 Featured Projects:</h3>
 
-### 🌱 [GrowMate](https://grow-mate-jade.vercel.app/)
+### 🌱 [GrowMate](https://growmate-lemon.vercel.app/)
 > A **gamified habit tracker** that turns consistency into progress.  
 > Built using **React, TypeScript, Node.js, Express, MongoDB, Framer Motion**, and **Tailwind CSS**.  
 > Features: Streak tracking, progress charts, and motivational animations.  
